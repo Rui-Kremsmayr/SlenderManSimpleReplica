@@ -1,0 +1,186 @@
+[
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/SlenderManProject.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/SlenderManProjectCameraManager.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/SlenderManProjectCharacter.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/SlenderManProjectGameMode.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/SlenderManProjectPlayerController.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Horror/HorrorCharacter.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Horror/HorrorGameMode.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Horror/HorrorPlayerController.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Horror/UI/HorrorUI.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/AI/EnvQueryContext_Target.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/AI/ShooterAIController.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/AI/ShooterNPC.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/AI/ShooterNPCSpawner.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/AI/ShooterStateTreeUtility.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/ShooterCharacter.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/ShooterGameMode.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/ShooterPlayerController.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/UI/ShooterBulletCounterUI.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/UI/ShooterUI.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/Weapons/ShooterPickup.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/Weapons/ShooterProjectile.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/Weapons/ShooterWeapon.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	},
+	{
+		"file": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/Source/SlenderManProject/Variant_Shooter/Weapons/ShooterWeaponHolder.cpp",
+		"arguments": [
+			"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject/SlenderManProject.0.rsp"
+		],
+		"directory": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Source"
+	}
+]

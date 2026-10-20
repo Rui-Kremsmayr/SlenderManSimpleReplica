@@ -1,0 +1,28 @@
+{
+	"configurations": [
+		{
+			"name": "SlenderManProjectEditor Editor Linux Development (SlenderManProject)",
+			"compilerPath": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"compilerArgs": [
+				"-isysroot",
+				"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu"
+			],
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "clang-x64",
+			"compileCommands": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_SlenderManProject.json"
+		},
+		{
+			"name": "Linux",
+			"compilerPath": "/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"compilerArgs": [
+				"-isysroot",
+				"/home/rui/Programs/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu"
+			],
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "clang-x64",
+			"compileCommands": "/home/rui/Desktop/trabalho/FH/GEA26/SlenderManProject/.vscode/compileCommands_Default.json"
+		}
+	]
+}

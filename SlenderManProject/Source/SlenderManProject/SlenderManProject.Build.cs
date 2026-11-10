@@ -1,6 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 using UnrealBuildTool;
+using UnrealBuildTool.Rules;
 
 public class SlenderManProject : ModuleRules
 {
@@ -21,7 +22,10 @@ public class SlenderManProject : ModuleRules
 			"Slate"
 		});
 
-		PrivateDependencyModuleNames.AddRange(new string[] { });
+		PrivateDependencyModuleNames.AddRange(new string[]
+		{
+			"NavigationSystem"
+		});
 
 		PublicIncludePaths.AddRange(new string[] {
 			"SlenderManProject",

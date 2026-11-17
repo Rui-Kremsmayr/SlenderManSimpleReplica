@@ -9,6 +9,9 @@
 #include "SlendermanCharacter.generated.h"
 
 
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnCaught);
+
+
 UCLASS()
 class SLENDERMANPROJECT_API ASlendermanCharacter : public ACharacter
 {
@@ -27,6 +30,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Slenderman")
 	float CatchRadius = 200.0f;
 
+    UPROPERTY(EditAnywhere, Category = "Slenderman")
+    float WaitTimeAtPoint = 5.0f;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -37,4 +43,9 @@ public:
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+	// Delegates
+	UPROPERTY(BlueprintAssignable, Category = "Slenderman Delegates")
+	FOnCaught OnCaught;
+
 };

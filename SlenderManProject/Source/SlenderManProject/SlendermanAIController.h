@@ -36,6 +36,9 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = "Slenderman Actions")
 	void FindNextPatrolPoint();
+
+	UFUNCTION(BlueprintCallable, Category = "Slenderman Actions")
+	void EvaluatePlayer();
 	
 
 private:
@@ -44,4 +47,13 @@ private:
 	
 	TArray<FVector> PatrolPoints;
     int32 PatrolIndex = 0;
+
+	void ChasePlayer(float Distance);
+	void StalkPlayer(float Distance);
+	void CatchPlayer();
+	void RestartLevel();
+
+    FTimerHandle RestartHandle;
+    FTimerHandle PatrolWaitHandle;
+
 };

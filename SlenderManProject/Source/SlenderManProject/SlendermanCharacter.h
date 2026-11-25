@@ -12,6 +12,7 @@
 
 // we need to first declare Delegates (i.e. Events) like this, before we can use them
 DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnCaught); // FOnCaught is the delegate "type", basically
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnAppearedAtPatrolPoint);
 
 // for ones with parameters:
 // DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnMovedTo, FVector, NewPos)
@@ -62,5 +63,8 @@ public:
 	// Delegate definition
 	UPROPERTY(BlueprintAssignable, Category = "Slenderman Delegates")
 	FOnCaught OnCaught;
+
+	UPROPERTY(BlueprintAssignable, Category = "Slenderman Delegates")
+	FOnAppearedAtPatrolPoint OnAppearedAtPatrolPoint;
 
 };

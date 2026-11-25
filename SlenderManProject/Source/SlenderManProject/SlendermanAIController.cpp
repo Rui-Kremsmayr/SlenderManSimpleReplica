@@ -134,6 +134,7 @@ void ASlendermanAIController::FindNextPatrolPoint()
     }
 
     Slenderman->SetActorLocation(Dest);
+    Slenderman->OnAppearedAtPatrolPoint.Broadcast();
 
     // starting a timer
     // (Timer Handle, object to call from, function to call after timer ran out passed as reference, time)
